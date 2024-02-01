@@ -41,5 +41,5 @@
 
 ## Título Universitario
 
-![Título Universitario]("https://github.com/dastasss/dastasss/blob/main/github/assets/img/certificado.jpg")
+![Título Universitario](https://github.com/dastasss/dastasss/blob/main/github/assets/img/certificado.jpg)
 
