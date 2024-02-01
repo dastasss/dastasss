@@ -1,10 +1,10 @@
 # Daniel Marín Farias - Desarrollador de Software
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador de software apasionado por la tecnología, inteligencia artificial y robótica.
+Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tambien full stack python web developer apasionado por la tecnología, inteligencia artificial y robótica.
 
 ## Perfil
 
-![Imagen de perfil](assets/img/WhatsApp Image 2024-01-29 at 23.08.13.jpeg)
+![Imagen de perfil](assets/img/yo.jpeg)
 
 - **Nombre:** Daniel Marín Farias
 - **Título:** Programador y Analista de Sistemas - Trainee Fullstack Python Web Developer
