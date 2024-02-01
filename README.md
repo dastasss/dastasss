@@ -38,7 +38,8 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 - MySQL: <img src="https://iconos8.es/icon/qGUfLiYi1bRN/mi-sql"/>- Kotlin: <img src="https://iconos8.es/icon/ZoxjA0jZDdFZ/kotlin"/>
 - App Inventor: - HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 - CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/> - JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-- Python: <img src="https://img.icons8.com/color/48/000000/python.png"/> - JMeter: ⚙️
+- Python: <img src="https://img.icons8.com/color/48/000000/python.png"/> - - JMeter: <img src="https://img.icons8.com/plasticine/48/000000/test-tube.png"/> <!-- Ejemplo de ícono genérico -->
+
 - C#: <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> - PyCharm: <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 - Visual Studio 2022: <img src="https://img.icons8.com/color/48/000000/visual-studio-2022.png"/> - Visual Studio Code: <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png"/>
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/> - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
