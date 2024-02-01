@@ -39,7 +39,7 @@
 - **LinkedIn:** <img src="https://img.icons8.com/ios/48/000000/linkedin.png"/> [Daniel Marín](https://www.linkedin.com/in/daniel-marin-6bbb00156/)
 
 
-## Título Universitario
+## Certificado de egreso
 
 ![Título Universitario](https://github.com/dastasss/dastasss/blob/main/github/assets/img/certificado.jpg)
 
