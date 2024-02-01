@@ -1,5 +1,6 @@
 # Daniel Marín Farias.
-<= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la tecnología, inteligencia artificial y robótica.=>
+<= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la tecnología, inteligencia artificial y 
+   robótica.=>
 
 
 
