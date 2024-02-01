@@ -12,20 +12,19 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 
 ## Habilidades
 
-- Toma y análisis de requerimientos de software.
-- Ciclo de vida del software.
-- Arquitecturas de software.
-- Metodologías de desarrollo de software.
-- Bases de datos relacional – MySQL (Workbench, XAMPP).
-- App móviles – JAVA (KOTLIN) - APP INVENTOR.
-- App web y páginas de internet - HTML5 - CSS3 - JS - PYTHON (Django).
-- Testing de software - JMETER.
-- Lenguajes de programación: PYTHON - C# - JS.
-- IDEs: PYCHARM – VISUAL STUDIO 2019 (.NET).
-- Editor de código: VISUAL STUDIO CODE.
-- Control de versiones: GIT – GITHUB.
-- Otros: Armado de configuración de PC y notebook, WORD, EXCEL, REDES, HARDWARE-SOFTWARE, WINDOWS, IOS, LINUX, UNIX.
-
+- 💻 Toma y análisis de requerimientos de software.
+- 🔄 Ciclo de vida del software.
+- 🏗️ Arquitecturas de software.
+- 📊 Metodologías de desarrollo de software.
+- 🛢️ Bases de datos relacional – MySQL (Workbench, XAMPP).
+- 📱 App móviles – JAVA (KOTLIN) - APP INVENTOR.
+- 🌐 App web y páginas de internet - HTML5 - CSS3 - JS - PYTHON (Django).
+- 🧪 Testing de software - JMETER.
+- 🐍 Lenguajes de programación: PYTHON - C# - JS.
+- 🛠️ IDEs: PYCHARM – VISUAL STUDIO 2019 (.NET).
+- ✒️ Editor de código: VISUAL STUDIO CODE.
+- 🔄 Control de versiones: GIT – GITHUB.
+- 🛠️ Otros: Armado de configuración de PC y notebook, WORD, EXCEL, REDES, HARDWARE-SOFTWARE, WINDOWS, IOS, LINUX, UNIX.
 ## Contacto
 
 - **Email:** dassprog@gmail.com
