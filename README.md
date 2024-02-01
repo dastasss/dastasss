@@ -33,5 +33,26 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 - **LinkedIn:** [https://www.linkedin.com/in/daniel-marin-6bbb00156/](https://www.linkedin.com/in/daniel-marin-6bbb00156/)
 
 ---
+## Tecnologías
 
+- MySQL: 🐬
+- Kotlin: 🚀
+- App Inventor: 🤖
+- HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+- CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+- JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+- Python: <img src="https://img.icons8.com/color/48/000000/python.png"/>
+- JMeter: ⚙️
+- C#: <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+- PyCharm: <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+- Visual Studio 2022: <img src="https://img.icons8.com/color/48/000000/visual-studio-2022.png"/>
+- Visual Studio Code: <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png"/>
+- Git: <img src="https://img.icons8.com/color/48/000000/git.png"/>
+- GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+- Django: <img src="https://img.icons8.com/color/48/000000/django.png"/>
+- ngrok: 🚀🔗
+- Microsoft Workbench: 🛠️
+- Figma: <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+- Astro: 🚀🌌
 
