@@ -35,8 +35,8 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 ---
 ## Tecnologías
 
-- MySQL: 🐬
-- Kotlin: 🚀
+- MySQL: <img src="https://iconos8.es/icon/qGUfLiYi1bRN/mi-sql"/>
+- Kotlin: <img src="https://iconos8.es/icon/qGUfLiYi1bRN/mi-sql"/>
 - App Inventor: 🤖
 - HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 - CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/>
