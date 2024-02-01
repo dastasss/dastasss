@@ -4,7 +4,8 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 
 ## Perfil
 
-(assets/img/yo.jpeg)
+![Imagen de perfil](assets/img/yo.jpg)
+
 
 - **Nombre:** Daniel Marín Farias
 - **Título:** Programador y Analista de Sistemas - Trainee Fullstack Python Web Developer
