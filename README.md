@@ -19,7 +19,7 @@
 
 ## Tecnologías
 
-- MySQL:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width= "100" height= "100"/>  
+- MySQL:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width= "100px" height= "100px"/>  
 - Kotlin: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"/>
 - App Inventor:
 - HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>- CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/> - JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
