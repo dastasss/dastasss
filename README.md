@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 
 ## Perfil
 
-![Imagen de perfil](github/assets/img/yo.jpg)
+
 
 
 - **Nombre:** Daniel Marín Farias
@@ -35,8 +35,10 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 ---
 ## Tecnologías
 
-- MySQL: <img src="https://iconos8.es/icon/qGUfLiYi1bRN/mi-sql"/>- Kotlin: <img src="https://iconos8.es/icon/ZoxjA0jZDdFZ/kotlin"/>
-- App Inventor: - HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+- MySQL:
+-  Kotlin:
+- App Inventor:
+-  HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 - CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/> - JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 - Python: <img src="https://img.icons8.com/color/48/000000/python.png"/> - - JMeter: <img src="https://img.icons8.com/plasticine/48/000000/test-tube.png"/> <!-- Ejemplo de ícono genérico -->
 
