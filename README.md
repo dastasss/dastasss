@@ -37,14 +37,12 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 - MySQL:
 -  Kotlin:
 - App Inventor:
--  HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-- CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/> - JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-- Python: <img src="https://img.icons8.com/color/48/000000/python.png"/> - - JMeter: <img src="https://img.icons8.com/plasticine/48/000000/test-tube.png"/> <!-- Ejemplo de ícono genérico -->
-
+-  HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>- CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/> - JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+- Python: <img src="https://img.icons8.com/color/48/000000/python.png"/> - - Django: <img src="https://img.icons8.com/color/48/000000/django.png"/> - ngrok: 🚀🔗
+- JMeter: <img src="https://img.icons8.com/plasticine/48/000000/test-tube.png"/> <!-- Ejemplo de ícono genérico -->
 - C#: <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> - PyCharm: <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 - Visual Studio 2022: - Visual Studio Code:
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/> - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-- Django: <img src="https://img.icons8.com/color/48/000000/django.png"/> - ngrok: 🚀🔗
-- Microsoft Workbench: 🛠️ - Figma: <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - Astro:
+- Microsoft Workbench: 🛠️
+-  Figma: <img src="https://img.icons8.com/color/48/000000/figma.png"/>- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - Astro:
 
