@@ -25,13 +25,7 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 - ✒️ Editor de código: VISUAL STUDIO CODE.
 - 🔄 Control de versiones: GIT – GITHUB.
 - 🛠️ Otros: Armado de configuración de PC y notebook, WORD, EXCEL, REDES, HARDWARE-SOFTWARE, WINDOWS, IOS, LINUX, UNIX.
-## Contacto
 
-- **Email:** dassprog@gmail.com
-- **GitHub:** [https://github.com/dastasss](https://github.com/dastasss)
-- **LinkedIn:** [https://www.linkedin.com/in/daniel-marin-6bbb00156/](https://www.linkedin.com/in/daniel-marin-6bbb00156/)
-
----
 ## Tecnologías
 
 - MySQL:
@@ -45,4 +39,11 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/> - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 - Microsoft Workbench: 🛠️
 -  Figma: <img src="https://img.icons8.com/color/48/000000/figma.png"/>- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - Astro:
+
+
+## Contacto
+
+- **Email:** <img src="https://img.icons8.com/color/48/000000/email.png"/> dassprog@gmail.com
+- **GitHub:** <img src="https://img.icons8.com/ios/48/000000/github.png"/> [dastasss](https://github.com/dastasss)
+- **LinkedIn:** <img src="https://img.icons8.com/ios/48/000000/linkedin.png"/> [Daniel Marín](https://www.linkedin.com/in/daniel-marin-6bbb00156/)
 
