@@ -2,7 +2,7 @@
 <= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la tecnología, inteligencia artificial y robótica.=>
 
 ## Perfil
-<span>https://raw.githubusercontent.com/dastass/dastass/main/github/assets/img/yo.jpg</span><span></span>
+<span>https://raw.githubusercontent.com/dastass/dastass/main/github/assets/img/yo.jpeg</span><span></span>
 
 ## Habilidades
 
