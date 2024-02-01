@@ -1,8 +1,7 @@
-# Daniel Marín Farias - Desarrollador de Software
+# Daniel Marín Farias.
 <= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la tecnología, inteligencia artificial y robótica.=>
 
-## Perfil
-<span>https://raw.githubusercontent.com/dastass/dastass/main/github/assets/img/yo.jpeg</span><span></span>
+
 
 ## Habilidades
 
