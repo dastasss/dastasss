@@ -43,9 +43,9 @@ Bienvenido a mi perfil de GitHub. Soy un programador y analista de sistemas tamb
 - Python: <img src="https://img.icons8.com/color/48/000000/python.png"/> - - JMeter: <img src="https://img.icons8.com/plasticine/48/000000/test-tube.png"/> <!-- Ejemplo de ícono genérico -->
 
 - C#: <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> - PyCharm: <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-- Visual Studio 2022: <img src="https://img.icons8.com/color/48/000000/visual-studio-2022.png"/> - Visual Studio Code: <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png"/>
+- Visual Studio 2022: - Visual Studio Code:
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/> - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 - Django: <img src="https://img.icons8.com/color/48/000000/django.png"/> - ngrok: 🚀🔗
 - Microsoft Workbench: 🛠️ - Figma: <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - Astro:<img src="https://iconos8.es/icon/lckHFUP7nJhG/astro "/>
+- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - Astro:
 
