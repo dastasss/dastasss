@@ -1,7 +1,7 @@
 # Daniel Marín Farias.
 <= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la tecnología, inteligencia artificial y 
    robótica.=>·
-<img src="https://github.com/dastasss/dastasss/blob/main/github/assets/img/yo.jpeg/" width= "100px" height= "100px"/>
+<img src="https://github.com/dastasss/dastasss/blob/main/github/assets/img/yo.jpeg/" width= "200px" height= "200px"/>
 ## Habilidades
 - 💻 Toma y análisis de requerimientos de software.
 - 🔄 Ciclo de vida del software.
