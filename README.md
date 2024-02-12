@@ -1,7 +1,7 @@
 # Daniel Marín Farias.
 <= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la tecnología, inteligencia artificial y 
    robótica.=>·
-<img src="https://github.com/dastasss/dastasss/blob/main/github/assets/img/yo.jpeg/" width= "200px" height= "200px"/>
+
 ## Habilidades
 - 💻 Toma y análisis de requerimientos de software.
 - 🔄 Ciclo de vida del software.
@@ -20,7 +20,7 @@
 ## Tecnologías
 
 - MySQL:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width= "100px" height= "100px"/>  
-- Kotlin: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"/>
+- Kotlin: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width= "100px" height= "100px"/>
 - App Inventor:
 - HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png"/>- CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/> - JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 - Python: <img src="https://img.icons8.com/color/48/000000/python.png"/> - - Django: <img src="https://img.icons8.com/color/48/000000/django.png"/> - ngrok: 🚀🔗
