@@ -7,7 +7,7 @@
 - 🔄 Ciclo de vida del software.
 - 🏗️ Arquitecturas de software.
 - 📊 Metodologías de desarrollo de software.
-- 🛢️ Bases de datos relacional – MySQL (Workbench, XAMPP).
+- 🛢️ Bases de datos relacional – MySQL (ms Workbench-ms sqlserver).
 - 📱 App móviles – JAVA (KOTLIN) - APP INVENTOR.
 - 🌐 App web y páginas de internet - HTML5 - CSS3 - JS - PYTHON (Django).
 - 🧪 Testing de software - JMETER.
