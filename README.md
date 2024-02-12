@@ -29,7 +29,7 @@
 - Visual Studio 2022: - Visual Studio Code:
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/> - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 - Microsoft Workbench: 🛠️
-- Figma: <img src="https://img.icons8.com/color/48/000000/figma.png"/>- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> - Astro:
+- Figma: <img src="https://img.icons8.com/color/48/000000/figma.png"/>- Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
 
 
 ## Contacto
