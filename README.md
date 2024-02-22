@@ -20,7 +20,6 @@
 ## Tecnologías
 
 - MySQL:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width= "50px" height= "50px"/>  
-
 - HTML5: <img src="https://img.icons8.com/color/48/000000/html-5.png" width= "50px" height= "50px"/>
 - CSS3: <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 - JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -31,8 +30,8 @@
 - C#: <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/>
 - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-- Microsoft Workbench: 🛠️
 - Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+- Microsoft Workbench: 🛠️
 - App Inventor:
 - Visual Studio 2022: 
 - Visual Studio Code:
