@@ -29,13 +29,13 @@
 - PyCharm: <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 - JMeter: <img src="https://img.icons8.com/plasticine/48/000000/test-tube.png"/> 
 - C#: <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
-- Visual Studio 2022: 
-- Visual Studio Code:
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/>
 - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 - Microsoft Workbench: 🛠️
 - Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 - App Inventor:
+- Visual Studio 2022: 
+- Visual Studio Code:
 
 
 ## Contacto
