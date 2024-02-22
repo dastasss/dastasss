@@ -1,6 +1,6 @@
 # Daniel Marín Farias.
-<= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la tecnología, inteligencia artificial y 
-   robótica.=>·
+<= Programador y Analista de sistemas-Full Stack PYTHON web developer trainee, Apasionado por la 
+   tecnología, inteligencia artificial y robótica.=>·
 
 ## Habilidades
 - 💻 Toma y análisis de requerimientos de software.
@@ -45,7 +45,7 @@
 - **LinkedIn:** <img src="https://img.icons8.com/ios/48/000000/linkedin.png"/> [Daniel Marín](https://www.linkedin.com/in/daniel-marin-6bbb00156/)
 
 
-## Certificado de egreso
+## Certificado de Egreso
 
 ![Título Universitario](https://github.com/dastasss/dastasss/blob/main/github/assets/img/certificado.jpg)
 
