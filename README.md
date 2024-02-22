@@ -33,7 +33,7 @@
 - Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 - Microsoft Workbench: 🛠️
 - App Inventor
-- Visual Studio 2022 :(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Visual Studio 2022 :
 - Visual Studio Code
 
 
