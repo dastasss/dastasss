@@ -32,9 +32,9 @@
 - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 - Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 - Microsoft Workbench: 🛠️
-- App Inventor:
-- Visual Studio 2022: 
-- Visual Studio Code:
+- App Inventor
+- Visual Studio 2022 :https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg
+- Visual Studio Code
 
 
 ## Contacto
