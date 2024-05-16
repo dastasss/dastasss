@@ -31,9 +31,7 @@
 - Git: <img src="https://img.icons8.com/color/48/000000/git.png"/>
 - GitHub: <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 - Bootstrap: <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-- Microsoft Workbench: 🛠️
-- App Inventor
-- Visual Studio 2022 :
+  - Visual Studio 2022 :
 - Visual Studio Code
 
 
