@@ -46,3 +46,6 @@
 
 ![Título Universitario](https://github.com/dastasss/dastasss/blob/main/github/assets/img/certificado.jpg)
 
+## Certificado de Talento Digital CHILE FULLSTACK PYTHON DJANGO 
+
+![Insignia Talento digital](https://www.acreditta.com/credential/3e000911-22ad-47c8-beec-4cfa39909904?utm_source=linkedin_profile&resource_type=badge&resource=3e000911-22ad-47c8-beec-4cfa39909904)
