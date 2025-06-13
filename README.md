@@ -1,6 +1,6 @@
 # Daniel Marín Farias.
 <= Programador y Analista de sistemas-Full Stack PYTHON , Apasionado por la 
-   tecnología, inteligencia artificial y robótica.=>·
+   tecnología, inteligencia artificial y robótica,los computadores soporte TI.=>·
 
 ## Habilidades
 - 💻 Toma y análisis de requerimientos de software.
