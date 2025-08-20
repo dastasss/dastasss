@@ -1,5 +1,5 @@
 # Daniel Marín Farias.
-<= Programador y Analista de sistemas-Full Stack PYTHON , Apasionado por la 
+<= Audio tech -Programador- Analista de sistemas JR-Full Stack PYTHON , Apasionado por la 
    tecnología, inteligencia artificial y robótica,los computadores soporte TI.=>·
 
 ## Habilidades
