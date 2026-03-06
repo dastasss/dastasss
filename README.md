@@ -1,5 +1,5 @@
 # Daniel Marín Farias.
-<= Audio tech -Programador- Analista de sistemas JR-Full Stack PYTHON , Apasionado por la 
+<= Hola soy dany mi primera carrera es Audio tech pero hoy  trabajo como Programador- Analista de sistemas JR-Full Stack PYTHON , Apasionado por la 
    tecnología, inteligencia artificial y robótica,los computadores soporte TI.=>·
 
 ## Habilidades
