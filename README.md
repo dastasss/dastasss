@@ -1,4 +1,4 @@
-<img width="302" height="368" alt="Captura de pantalla 2026-07-07 200603_20260707200559" src="https://github.com/user-attachments/assets/f0093c63-2b00-418f-9f0b-8ab5ed5085e5" />
+
 # Daniel Marín Farias
 
 <= Hola soy dany mi primera carrera es Audio tech pero hoy trabajo como Programador- Analista de sistemas -Full Stack PYTHON , Apasionado por la tecnología, inteligencia artificial y robótica,los computadores soporte TI.=>
@@ -52,5 +52,5 @@
   *Instituto Profesional AIEP*
 
 <p align="center">
-  <img src="RUTA_O_URL_DE_TU_TITULO.jpg" alt="Título Profesional AIEP" width="500px"/>
+ <img width="302" height="368" alt="Captura de pantalla 2026-07-07 200603_20260707200559" src="https://github.com/user-attachments/assets/f0093c63-2b00-418f-9f0b-8ab5ed5085e5" />
 </p>
