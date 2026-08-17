@@ -1,6 +1,6 @@
 # Daniel Marín Farias
 
-<= Hola soy dany mi primera carrera es Audio tech pero hoy trabajo como Programador- Analista de sistemas JR-Full Stack PYTHON , Apasionado por la tecnología, inteligencia artificial y robótica,los computadores soporte TI.=>
+<= Hola soy dany mi primera carrera es Audio tech pero hoy trabajo como Programador- Analista de sistemas -Full Stack PYTHON , Apasionado por la tecnología, inteligencia artificial y robótica,los computadores soporte TI.=>
 
 ## Habilidades
 
@@ -42,7 +42,14 @@
 - **GitHub:** <img src="https://img.icons8.com/ios/48/000000/github.png" width="20px"/> [dastasss](https://github.com/dastasss)
 - **LinkedIn:** <img src="https://img.icons8.com/ios/48/000000/linkedin.png" width="20px"/> [Daniel Marín](https://www.linkedin.com/in/daniel-marin-6bbb00156/)
 
-## Certificaciones
+## Certificaciones y Títulos
 
 - 🎓 **Certificado de Talento Digital CHILE FULLSTACK PYTHON DJANGO**  
   [Ver Certificación en Acreditta](https://www.acreditta.com/credential/3e000911-22ad-47c8-beec-4cfa39909904?utm_source=linkedin_profile&resource_type=badge&resource=3e000911-22ad-47c8-beec-4cfa39909904)
+
+- 📜 **Título Profesional: Técnico de Nivel Superior en Programación y Análisis de Sistemas**  
+  *Instituto Profesional AIEP*
+
+<p align="center">
+  <img src="RUTA_O_URL_DE_TU_TITULO.jpg" alt="Título Profesional AIEP" width="500px"/>
+</p>
